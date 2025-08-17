@@ -18,5 +18,6 @@ The automation is built using the following Python libraries:
 ***Consumer Goods Cloud – Trade Promotion Management APIs:***
 
 **RCG Integration** – Processing Services – API reference for processing services used in Trade Promotion Management.
+- https://developer.salesforce.com/docs/industries/rcgps-integration-service/guide
 
 
